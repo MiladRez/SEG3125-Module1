@@ -63,6 +63,6 @@ input[type="radio"] {
     text-align: left;
 }
 
-textarea {
-    max-width: 620px;
+#textbox {
+    text-align: center;
 }
