@@ -1,0 +1,59 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-image: url("website_bg.jpg");
+    background-size: contain;
+    background-color: #0B0C10;
+}
+
+#survey_title {
+    font-size: 30px;
+    padding: 20px;
+    color: #379683;
+    text-align: center;
+}
+
+#link_to_site {
+    color: #C5C6C7;
+    text-align: center;
+}
+
+form {
+    padding: 50px;
+}
+
+.questions {
+    background-color: #0B0C10;
+    padding: 20px;
+    width: 620px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+p {
+    color: #C5C6C7;
+}
+
+label {
+    color: #379683;
+}
+
+#slider {
+    color: #379683;
+    text-align: center;
+}
+
+button {
+    background-color: #379683;
+    color: #C5C6C7;
+    font-size: 20px;
+}
+
+footer {
+    color: #C5C6C7;
+    text-align: center;
+    margin-top: 50px;
+}
+
+input[type="radio"] {
+    text-align: left;
+}
