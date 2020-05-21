@@ -64,5 +64,5 @@ input[type="radio"] {
 }
 
 textarea {
-    width: max-content;
+    width: 100%;
 }
