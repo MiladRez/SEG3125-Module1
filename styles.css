@@ -62,3 +62,7 @@ footer {
 input[type="radio"] {
     text-align: left;
 }
+
+textarea {
+    width: max-content;
+}
